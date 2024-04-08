@@ -1,0 +1,40 @@
+
+/* Style for the container */
+.container {
+  background-color: aliceblue;
+  margin: 20px;
+}
+
+/* Style for the featured categories section */
+.featured-categories {
+  margin-top: 20px;
+}
+
+/* Style for the mat-card */
+mat-card {
+  margin-bottom: 20px;
+}
+
+/* Style for the mat-card-title */
+mat-card-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/* Style for the mat-card-content */
+mat-card-content {
+  font-size: 16px;
+}
+
+/* Style for the footer */
+.footer {
+  margin-top: 20px;
+  text-align: center;
+}
+
+/* Style for the navigation buttons */
+.mat-button {
+  color-scheme: Dark;
+  color: navy;
+  margin: 0 10px;
+}
